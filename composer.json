@@ -10,7 +10,10 @@
   "autoload": {
     "psr-4": {
       "Skyline\\Admin\\Tool\\" : "src"
-    }
+    },
+    "files": [
+      "Constants.php"
+    ]
   },
   "require" : {
     "php": "^7.2",
