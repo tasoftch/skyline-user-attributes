@@ -5,5 +5,5 @@ So using this attributes you can assign more information about a user.
 
 #### Installation
 ```bin
-$ composer require skyline-admin/user-attributes
+$ composer require skyline/user-attributes
 ```
